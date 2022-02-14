@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sanjibmohanty05" target="blank"><img src="https://img.shields.io/twitter/follow/sanjibmohanty05?logo=twitter&style=for-the-badge" alt="sanjibmohanty05" /></a> </p>
 
-- 🔭 I’m currently working on [Self Development](undoubtedly.)
+- 🔭 I’m currently working on <b>Self Development</b>,undoubtedly.
 
 - 🌱 I’m currently learning **Python and Java**
 
